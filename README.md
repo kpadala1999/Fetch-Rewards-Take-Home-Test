@@ -23,9 +23,7 @@ I addressed both closed-ended and open-ended business questions using SQL in Sql
 3. Communication with Stakeholders
 To translate technical results into actionable insights, I crafted a  mail to stakeholder
 
-Included in Message to Stakeholders.docx, this document:
-
-Summarizes data quality concerns.
+Included in Message to Stakeholders.docx, which Summarizes data quality concerns.
 
 Highlights a key finding: strong performance of private-label products among power users.
 
